@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 function App() {
   return (
     <>
-      <div className='h-screen p-5 flex flex-col items-center'>
+      <div className='h-screen p-5 flex flex-col'>
         <Lamp/>
         <div className='flex flex-col items-center'>
           <h2 className='font-bold text-2xl mb-5'>Reach out me at</h2>
