@@ -11,7 +11,7 @@ function App() {
           <div className='flex flex-row gap-5'>
             <Link to="mailto:sameerwebdev@outlook.com">
               <img src="/email.png" alt="email" width="50px" 
-              className='hover:w-14 hover:shadow-lg hover:shadow-amber-300 rounded-full transition-all ease-linear dark:shadow-xl dark:shadow-white' />
+              className='hover:w-14 hover:shadow-lg hover:shadow-amber-300 rounded-full transition-all ease-linear' />
             </Link>
             
             <Link to="https://x.com/sameerxdw">
