@@ -14,7 +14,7 @@ function App() {
               className='hover:w-14 hover:shadow-lg hover:shadow-amber-300 rounded-full transition-all ease-linear' />
             </Link>
             
-            <Link to="https://x.com/sameerxdw">
+            <Link to="https://x.com/txsameer">
               <img src="/xtwitter.png" alt="twitter/x" width="50px" 
               className='hover:w-14 hover:shadow-lg hover:shadow-amber-300 rounded-full transition-all ease-linear' />
             </Link>
