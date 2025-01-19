@@ -9,7 +9,7 @@ function App() {
         <div className='flex flex-col items-center'>
           <h2 className='font-bold text-2xl mb-5'>Reach out me at</h2>
           <div className='flex flex-row gap-5'>
-            <Link to="mailto:sameerwebdev@outlook.com">
+            <Link to="mailto:hey@sameer.im">
               <img src="/email.png" alt="email" width="50px" 
               className='hover:w-14 hover:shadow-lg hover:shadow-amber-300 rounded-full transition-all ease-linear' />
             </Link>
